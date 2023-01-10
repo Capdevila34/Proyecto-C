@@ -1,0 +1,254 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                          CARTAS                          +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Longitud Nula
+
+Nombre del abonado (1-15 car):
+Longitud Excesiva
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 13:15caracteres_OK
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-13]: 
+Valor Incorrecto
+
+Identidad del emisor [1-13]: 
+Valor Incorrecto
+
+Identidad del emisor [1-13]: 
+Valor Incorrecto
+
+Identidad del emisor [1-13]: 
+Valor Incorrecto
+
+Identidad del emisor [1-13]: 
+Valor Incorrecto
+
+Identidad del emisor [1-13]: 
+Valor Incorrecto
+
+Identidad del emisor [1-13]: 
+Valor Incorrecto
+
+Identidad del emisor [1-13]: 
+Valor Incorrecto
+
+Identidad del emisor [1-13]: 
+Identidad del receptor [1-13]: 
+Valor Incorrecto
+
+
+Identidad del receptor [1-13]: 
+Valor Incorrecto
+
+
+Identidad del receptor [1-13]: 
+Valor Incorrecto
+
+
+Identidad del receptor [1-13]: 
+Valor Incorrecto
+
+
+Identidad del receptor [1-13]: 
+Valor Incorrecto
+
+
+Identidad del receptor [1-13]: 
+Valor Incorrecto
+
+
+Identidad del receptor [1-13]: 
+Valor Incorrecto
+
+
+Identidad del receptor [1-13]: 
+Valor Incorrecto
+
+
+Identidad del receptor [1-13]: 
+Mensaje de texto (1-100 car):
+Longitud Nula
+
+
+Mensaje de texto (1-100 car):
+Longitud Excesiva
+
+
+Mensaje de texto (1-100 car):
+Mensaje registrado:
+
+> Emisor: 12
+> Destino: 13
+> Texto: OK!-este-texto-si-es-valido-porque-tiene-exactamente_los_100_caracteres_que_se_admiten_en_un_mensaje
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Listar
+
+Identidad del destino (1-15 car):
+Longitud Nula
+
+Identidad del destino (1-15 car):
+Longitud Excesiva
+
+Identidad del destino (1-15 car):
+Mensajes para 15caracteres_OK:
+# 12: 13:OK!-este-tex
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Borrar
+
+Identidad del destino [1-13]: 
+Valor Incorrecto
+
+Identidad del destino [1-13]: 
+Valor Incorrecto
+
+Identidad del destino [1-13]: 
+Valor Incorrecto
+
+Identidad del destino [1-13]: 
+Valor Incorrecto
+
+Identidad del destino [1-13]: 
+Valor Incorrecto
+
+Identidad del destino [1-13]: 
+Valor Incorrecto
+
+Identidad del destino [1-13]: 
+Valor Incorrecto
+
+Identidad del destino [1-13]: 
+Valor Incorrecto
+
+Identidad del destino [1-13]: 
+Posicion del mensaje [1-2]: 
+Valor Incorrecto
+
+
+Posicion del mensaje [1-2]: 
+Valor Incorrecto
+
+
+Posicion del mensaje [1-2]: 
+Valor Incorrecto
+
+
+Posicion del mensaje [1-2]: 
+Valor Incorrecto
+
+
+Posicion del mensaje [1-2]: 
+Valor Incorrecto
+
+
+Posicion del mensaje [1-2]: 
+Valor Incorrecto
+
+
+Posicion del mensaje [1-2]: 
+Valor Incorrecto
+
+
+Posicion del mensaje [1-2]: 
+Valor Incorrecto
+
+
+Posicion del mensaje [1-2]: 
+Mensaje borrado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Retirar
+
+Identidad del abonado [1-13]: 
+Valor Incorrecto
+
+Identidad del abonado [1-13]: 
+Valor Incorrecto
+
+Identidad del abonado [1-13]: 
+Valor Incorrecto
+
+Identidad del abonado [1-13]: 
+Valor Incorrecto
+
+Identidad del abonado [1-13]: 
+Valor Incorrecto
+
+Identidad del abonado [1-13]: 
+Valor Incorrecto
+
+Identidad del abonado [1-13]: 
+Valor Incorrecto
+
+Identidad del abonado [1-13]: 
+Valor Incorrecto
+
+Identidad del abonado [1-13]: 
+Abonado retirado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Salir
+
+
+Salir
+
+Seguro que desea salir del programa? (s /n): 

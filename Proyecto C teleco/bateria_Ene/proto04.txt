@@ -1,0 +1,38 @@
+0
+q
+;
+ 
+    
+
+alta
+escribir
+listar
+borrar
+baja
+salir
+A E L
+lbj
+      a
+      e
+      l
+      b
+      j
+      s
+s
+p
+q
+:
+no
+si
+n s
+s n
+sn
+ns
+ 
+    
+
+        s
+        n
+n
+S
+s

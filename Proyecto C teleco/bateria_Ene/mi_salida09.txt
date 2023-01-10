@@ -1,0 +1,330 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                          CARTAS                          +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Listar
+
+Identidad del destino (1-15 car):
+Mensajes para Timoteo:
+#140: 63:Aldebaran
+#138: 63:Saiph
+# 14: 63:Epsilon_Scor
+# 87: 63:Scheat
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Listar
+
+Identidad del destino (1-15 car):
+Mensajes para Emmanuel:
+#136:  1:Schedar
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Listar
+
+Identidad del destino (1-15 car):
+Mensajes para Dositeo:
+#129:149:Alfa_Triangu
+#121:149:Theta_Centau
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Borrar
+
+Identidad del destino [1-149]: 
+Posicion del mensaje [1-1]: 
+Mensaje borrado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Borrar
+
+Identidad del destino [1-149]: 
+No se han encontrado mensajes
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Borrar
+
+Identidad del destino [1-149]: 
+Posicion del mensaje [1-2]: 
+Mensaje borrado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Borrar
+
+Identidad del destino [1-149]: 
+Posicion del mensaje [1-1]: 
+Mensaje borrado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Borrar
+
+Identidad del destino [1-149]: 
+Posicion del mensaje [1-1]: 
+Mensaje borrado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Borrar
+
+Identidad del destino [1-149]: 
+Posicion del mensaje [1-2]: 
+Mensaje borrado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Borrar
+
+Identidad del destino [1-149]: 
+Posicion del mensaje [1-2]: 
+Mensaje borrado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Borrar
+
+Identidad del destino [1-149]: 
+Posicion del mensaje [1-2]: 
+Mensaje borrado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Retirar
+
+Identidad del abonado [1-149]: 
+Abonado retirado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Retirar
+
+Identidad del abonado [1-149]: 
+Abonado retirado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Retirar
+
+Identidad del abonado [1-149]: 
+Abonado retirado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Retirar
+
+Identidad del abonado [1-147]: 
+Abonado retirado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Retirar
+
+Identidad del abonado [1-145]: 
+Abonado retirado
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Listar
+
+Identidad del destino (1-15 car):
+Abonado desconocido
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Listar
+
+Identidad del destino (1-15 car):
+Abonado desconocido
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Listar
+
+Identidad del destino (1-15 car):
+Abonado desconocido
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Listar
+
+Identidad del destino (1-15 car):
+Mensajes para Basilio:
+#132:  5:Elnath
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Listar
+
+Identidad del destino (1-15 car):
+Mensajes para Gabriel:
+# 61:145:Castor_A
+#109:145:Alphecca
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Salir
+
+
+Salir
+
+Seguro que desea salir del programa? (s /n): 

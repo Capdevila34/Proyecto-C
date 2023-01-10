@@ -1,0 +1,19 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                          CARTAS                          +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Salir
+
+
+Salir
+
+Seguro que desea salir del programa? (s /n): 

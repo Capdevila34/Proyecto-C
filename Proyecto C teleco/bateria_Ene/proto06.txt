@@ -1,0 +1,61 @@
+A
+
+Debe_decir_que-es-demasiado-larga
+15caracteres_OK
+E
+
+doce
+d
+-5
+3.6
+2 9
+0
+45
+12
+
+trece
+m
+-7
+2.9
+3 6
+0
+14
+13
+
+Debe_decir_que-este-texto-de-mensaje-es-demasiado-largo-ya-que-tiene-mas-de-100-caracteres_y_no_es_OK
+OK!-este-texto-si-es-valido-porque-tiene-exactamente_los_100_caracteres_que_se_admiten_en_un_mensaje
+L
+
+Debe_decir_que-es-demasiado-larga
+15caracteres_OK
+B
+
+seis
+s
+-6
+6.3
+6 3
+0
+45
+6
+
+dos
+d
+-2
+2.1
+1 2
+0
+3
+1
+J
+
+uno
+u
+-1
+1.4
+1 3
+0
+14
+1
+s
+S

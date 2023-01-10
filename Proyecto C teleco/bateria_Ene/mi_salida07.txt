@@ -1,0 +1,1069 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                          CARTAS                          +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+#  1:       Emmanuel
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+#  2:       Gregorio
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+#  3:        Basilio
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+#  4:       Genoveva
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+#  5:      Estefania
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+#  6:      Rigoberto
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+#  7:Juan_Nepomuceno
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+#  8:         Simeon
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+#  9:       Raimundo
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 10:         Gudula
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 11:        Eulogio
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 12:       Lucrecia
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 13:  Tomas_de_Cori
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 14:  Benito_Biscop
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 15:        Hilario
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 16:          Felix
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 17:         Raquel
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 18:          Mauro
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 19:        Marcelo
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 20:        Antonio
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 21:         Prisca
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 22:         Fabian
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 23:      Sebastian
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 24:           Ines
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 25:      Fructuoso
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 26:  Laura_Vicunha
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 27:        Vicente
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 28:      Ildefonso
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 29:      Francisco
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 30:        Timoteo
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 31:           Tito
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 32:         Angela
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 33:        Enrique
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 34:        Martina
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 35:     Juan_Bosco
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 36:        Brigida
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 37:          Oscar
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 38:           Blas
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 39:          Juana
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 40:       Gilberto
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 41:         Felipe
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 42:         Agueda
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 43:     Pablo_Miki
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 44:        Dorotea
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 45:        Ricardo
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 46:       Jeronimo
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 47:       Apolonia
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 48:    Escolastica
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 49:        Eulalia
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 50:        Benigno
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 51:        Metodio
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 52:       Valentin
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 53:         Cirilo
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 54:        Onesimo
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 55:        Juliana
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 56:        Teodoro
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 57:         Eladio
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 58:         Alvaro
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 59:        Jacinta
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 60:       Pascasio
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 61:      Maximiano
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 62:      Policarpo
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 63:        Modesto
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 64:         Sergio
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 65:        Valerio
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 66:       Porfirio
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 67:      Alejandro
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 68:        Gabriel
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 69:        Leandro
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Suscribir
+
+Nombre del abonado (1-15 car):
+Suscriptor registrado:
+# 70:        Dositeo
+
+A) Dar de alta un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Salir
+
+
+Salir
+
+Seguro que desea salir del programa? (s /n): 

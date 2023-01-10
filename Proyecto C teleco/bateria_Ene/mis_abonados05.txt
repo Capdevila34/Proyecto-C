@@ -1,0 +1,6 @@
+1 1 Juan_Perez
+2 0 Manolo_Martinez
+3 1 Luisa_Costa
+6 2 Angel_Garcia
+9 1 Maria_Pelaez
+12 1 Angela_Lopez

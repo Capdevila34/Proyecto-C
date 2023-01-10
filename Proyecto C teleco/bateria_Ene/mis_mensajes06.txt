@@ -1,0 +1,5 @@
+9 12 Como_estas
+3 6 Puedes_venir
+6 3 Ahora-no
+12 9 MuyBien
+12 13 OK!-este-texto-si-es-valido-porque-tiene-exactamente_los_100_caracteres_que_se_admiten_en_un_mensaje

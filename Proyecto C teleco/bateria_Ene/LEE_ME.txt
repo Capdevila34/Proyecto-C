@@ -1,0 +1,361 @@
+Estos ficheros contienen una batería de pruebas para evaluar el correcto
+funcionamiento de un programa que implemente la versión de enero del
+proyecto Cartas
+
+Se asume la existencia de un Makefile con reglas para generar un programa
+con nombre = letters
+
+Dado que el programa generado por el Makefile se llama "letters", la forma
+de ejecutar la batería de pruebas es:
+
+
+./protocolo.pl letters
+
+
+El archivo 'protocolo.pl" es un script de Perl.
+
+Si no tienes instalado Perl, debes instalarlo con:
+
+sudo apt install perl
+
+El script del protocolo debe tener permiso de ejecución. Es decir, si, tras
+extraer este archivo del archivo comprimido, no es ejecutable:
+
+usuario@maquina (carpeta)>ls -l *.pl
+-rw------- 1 usuario grupo 5340 12 mar 13:44 protocolo.pl
+
+Es necesario darle permisos de ejecución:
+
+usuario@maquina (carpeta)>chmod 700 *.pl
+usuario@maquina (carpeta)>ls -l *.pl
+-rwx------ 1 usuario grupo 5340 12 mar 13:44 protocolo.pl
+
+
+Este protocolo va llamando al programa sucesivas veces, de la forma:
+  
+./letters < protoXX.txt > mi_salidaXX.txt
+  
+es decir, redirigiendo a su entrada estándar, en vez del teclado, el contenido
+de un fichero (protoXX.txt) que contiene entradas para el programa, y
+redirigiendo su salida, en vez de a la pantalla, a un fichero
+(mi_salidaXX.txt), que, después, será evaluado.
+
+Además, también se evalúa, si es necesario, el contenido de los sucesivos
+ficheros de la base de datos ("abonados.txt" y "mensajes.txt") generados
+por el programa.
+
+Tras cada prueba, con número XX, los ficheros creados son renombrados
+como sigue:
+
+- abonados.txt -> mis_abonadosXX.txt
+- mensajes.txt -> mis_mensajesXX.txt
+
+La salida correcta por pantalla debería ser como la siguiente:
+
+------------------------------------------------------------------------------
+
+Protocolo para evaluar un programa que contiene la versión de enero
+del proyecto Cartas
+
+El programa se llama: "letters"
+
+Limpiamos el escenario
+rm -f letters *.o *.bak abonados.txt mensajes.txt
+
+Construimos la aplicación
+gcc -Wall -c operation.c -o operation.o
+gcc -Wall -c inout.c
+gcc -Wall inout.o operation.o letters.c -o letters
+
+
+Ejecutamos la batería de pruebas
+
+Prueba número 0: ./letters < proto00.txt > mi_salida00.txt
+
+Comparamos el fichero mis_abonados00.txt generado por el programa
+que hemos evaluado con el abonados00.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_abonados00.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mis_mensajes00.txt generado por el programa
+que hemos evaluado con el mensajes00.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_mensajes00.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mi_salida00.txt generado por el programa
+que hemos evaluado con el salida00.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mi_salida00.txt es correcto
+
+Pulsa enter para continuar...
+
+Prueba número 1: ./letters < proto01.txt > mi_salida01.txt
+
+Comparamos el fichero mis_abonados01.txt generado por el programa
+que hemos evaluado con el abonados01.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_abonados01.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mis_mensajes01.txt generado por el programa
+que hemos evaluado con el mensajes01.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_mensajes01.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mi_salida01.txt generado por el programa
+que hemos evaluado con el salida01.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mi_salida01.txt es correcto
+
+Pulsa enter para continuar...
+
+Prueba número 2: ./letters < proto02.txt > mi_salida02.txt
+
+Comparamos el fichero mis_abonados02.txt generado por el programa
+que hemos evaluado con el abonados02.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_abonados02.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mis_mensajes02.txt generado por el programa
+que hemos evaluado con el mensajes02.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_mensajes02.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mi_salida02.txt generado por el programa
+que hemos evaluado con el salida02.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mi_salida02.txt es correcto
+
+Pulsa enter para continuar...
+
+Prueba número 3: ./letters < proto03.txt > mi_salida03.txt
+
+Comparamos el fichero mis_abonados03.txt generado por el programa
+que hemos evaluado con el abonados03.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_abonados03.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mis_mensajes03.txt generado por el programa
+que hemos evaluado con el mensajes03.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_mensajes03.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mi_salida03.txt generado por el programa
+que hemos evaluado con el salida03.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mi_salida03.txt es correcto
+
+Pulsa enter para continuar...
+
+Prueba número 4: ./letters < proto04.txt > mi_salida04.txt
+
+Comparamos el fichero mis_abonados04.txt generado por el programa
+que hemos evaluado con el abonados04.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_abonados04.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mis_mensajes04.txt generado por el programa
+que hemos evaluado con el mensajes04.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_mensajes04.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mi_salida04.txt generado por el programa
+que hemos evaluado con el salida04.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mi_salida04.txt es correcto
+
+Pulsa enter para continuar...
+
+Prueba número 5: ./letters < proto05.txt > mi_salida05.txt
+
+Comparamos el fichero mis_abonados05.txt generado por el programa
+que hemos evaluado con el abonados05.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_abonados05.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mis_mensajes05.txt generado por el programa
+que hemos evaluado con el mensajes05.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_mensajes05.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mi_salida05.txt generado por el programa
+que hemos evaluado con el salida05.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mi_salida05.txt es correcto
+
+Pulsa enter para continuar...
+
+Prueba número 6: ./letters < proto06.txt > mi_salida06.txt
+
+Comparamos el fichero mis_abonados06.txt generado por el programa
+que hemos evaluado con el abonados06.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_abonados06.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mis_mensajes06.txt generado por el programa
+que hemos evaluado con el mensajes06.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_mensajes06.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mi_salida06.txt generado por el programa
+que hemos evaluado con el salida06.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mi_salida06.txt es correcto
+
+Pulsa enter para continuar...
+
+Prueba número 7: ./letters < proto07.txt > mi_salida07.txt
+
+Comparamos el fichero mis_abonados07.txt generado por el programa
+que hemos evaluado con el abonados07.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_abonados07.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mis_mensajes07.txt generado por el programa
+que hemos evaluado con el mensajes07.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_mensajes07.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mi_salida07.txt generado por el programa
+que hemos evaluado con el salida07.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mi_salida07.txt es correcto
+
+Pulsa enter para continuar...
+
+Prueba número 8: ./letters < proto08.txt > mi_salida08.txt
+
+Comparamos el fichero mis_abonados08.txt generado por el programa
+que hemos evaluado con el abonados08.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_abonados08.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mis_mensajes08.txt generado por el programa
+que hemos evaluado con el mensajes08.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_mensajes08.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mi_salida08.txt generado por el programa
+que hemos evaluado con el salida08.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mi_salida08.txt es correcto
+
+Pulsa enter para continuar...
+
+Prueba número 9: ./letters < proto09.txt > mi_salida09.txt
+
+Comparamos el fichero mis_abonados09.txt generado por el programa
+que hemos evaluado con el abonados09.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_abonados09.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mis_mensajes09.txt generado por el programa
+que hemos evaluado con el mensajes09.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mis_mensajes09.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Comparamos el fichero mi_salida09.txt generado por el programa
+que hemos evaluado con el salida09.txt que debería haberse generado,
+y mostramos las diferencias (si las hay)
+
+El fichero mi_salida09.txt es correcto
+
+Pulsa enter para continuar...
+
+
+Todas las pruebas se han superado correctamente
+
+------------------------------------------------------------------------------
+
+En caso de que el comportamiento del programa no sea conforme a las
+especificaciones, las secciones de "Comparamos los ficheros..." mostrarán las
+diferencias entre lo que produce el programa y lo que debería producir.
+

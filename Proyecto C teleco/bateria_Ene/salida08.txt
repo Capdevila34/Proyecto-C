@@ -1,0 +1,1726 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                          CARTAS                          +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 100
+> Destino: 87
+> Texto: Sirius
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 40
+> Destino: 69
+> Texto: Canopus
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 10
+> Destino: 96
+> Texto: Alfa_Centauri_A
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 12
+> Destino: 36
+> Texto: Arcturus
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 87
+> Destino: 27
+> Texto: Vega
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 1
+> Destino: 129
+> Texto: Rigel
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 98
+> Destino: 94
+> Texto: Procyon
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 10
+> Destino: 138
+> Texto: Achernar
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 107
+> Destino: 25
+> Texto: Betelgeuse
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 36
+> Destino: 105
+> Texto: Agena
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 40
+> Destino: 65
+> Texto: Capella_A
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 105
+> Destino: 81
+> Texto: Altair
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 140
+> Destino: 114
+> Texto: Aldebaran
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 125
+> Destino: 36
+> Texto: Capella_B
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 140
+> Destino: 45
+> Texto: Spica
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 5
+> Destino: 18
+> Texto: Antares
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 112
+> Destino: 143
+> Texto: Pollux
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 31
+> Destino: 89
+> Texto: Fomalhaut
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 5
+> Destino: 7
+> Texto: Deneb
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 123
+> Destino: 40
+> Texto: Beta_Crucis
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 63
+> Destino: 134
+> Texto: Alpha_Centauri_B
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 105
+> Destino: 76
+> Texto: Regulus
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 127
+> Destino: 3
+> Texto: Acrux_A
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 138
+> Destino: 38
+> Texto: Adara
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 56
+> Destino: 20
+> Texto: Shaula
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 112
+> Destino: 45
+> Texto: Gamma_Crucis
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 78
+> Destino: 56
+> Texto: Bellatrix
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 132
+> Destino: 5
+> Texto: Elnath
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 70
+> Destino: 47
+> Texto: Beta_Carinae
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 118
+> Destino: 34
+> Texto: Alnilam
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 116
+> Destino: 70
+> Texto: Alnitak_A
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 18
+> Destino: 121
+> Texto: Alfa_Gruis
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 94
+> Destino: 70
+> Texto: Alioth
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 54
+> Destino: 132
+> Texto: Velorum
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 143
+> Destino: 136
+> Texto: Kaus_Australis
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 43
+> Destino: 78
+> Texto: Mirfak
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 89
+> Destino: 83
+> Texto: Wezen
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 27
+> Destino: 107
+> Texto: Alcaid
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 1
+> Destino: 27
+> Texto: Theta_Scorpii
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 96
+> Destino: 87
+> Texto: Dubhe
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 67
+> Destino: 127
+> Texto: Alhena
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 65
+> Destino: 92
+> Texto: Peacock
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 129
+> Destino: 149
+> Texto: Alfa_Trianguli_Australis
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 61
+> Destino: 145
+> Texto: Castor_A
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 45
+> Destino: 10
+> Texto: Mirzam
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 61
+> Destino: 105
+> Texto: Alphard
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 100
+> Destino: 98
+> Texto: Hamal
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 25
+> Destino: 72
+> Texto: Polaris
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 38
+> Destino: 123
+> Texto: Delta_Velorum
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 16
+> Destino: 14
+> Texto: Beta_Ceti
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 138
+> Destino: 63
+> Texto: Saiph
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 118
+> Destino: 147
+> Texto: Nunki
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 121
+> Destino: 149
+> Texto: Theta_Centauri
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 58
+> Destino: 125
+> Texto: Alpheratz
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 76
+> Destino: 78
+> Texto: Mirach
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 29
+> Destino: 140
+> Texto: Kochab
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 147
+> Destino: 96
+> Texto: Acrux_B
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 9
+> Destino: 114
+> Texto: Alfa_Ophiuchi
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 92
+> Destino: 118
+> Texto: Algol
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 83
+> Destino: 100
+> Texto: Beta_Gruis
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 114
+> Destino: 29
+> Texto: Denebola
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 52
+> Destino: 132
+> Texto: Naos
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 149
+> Destino: 3
+> Texto: Lambda_Velorum
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 29
+> Destino: 123
+> Texto: Etamin
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 109
+> Destino: 145
+> Texto: Alphecca
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 85
+> Destino: 18
+> Texto: Sadr
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 136
+> Destino: 1
+> Texto: Schedar
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 20
+> Destino: 31
+> Texto: Iota_Carinae
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 145
+> Destino: 85
+> Texto: Almach
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 74
+> Destino: 72
+> Texto: Mizar_A
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 3
+> Destino: 43
+> Texto: Caph
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 98
+> Destino: 54
+> Texto: Epsilon_Centauri
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 47
+> Destino: 109
+> Texto: Algieba
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 49
+> Destino: 112
+> Texto: Alfa_Lupi
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 81
+> Destino: 67
+> Texto: Delta_Scorpii
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 14
+> Destino: 63
+> Texto: Epsilon_Scorpii
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 54
+> Destino: 116
+> Texto: Eta_Centauri
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 103
+> Destino: 52
+> Texto: Merak
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 36
+> Destino: 54
+> Texto: Alfa_Phoenicis
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 34
+> Destino: 58
+> Texto: Kappa_Scorpii
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 69
+> Destino: 9
+> Texto: Gamma_Cassiopeiae
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 7
+> Destino: 23
+> Texto: Enif
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 23
+> Destino: 61
+> Texto: Eta_Canis_Majoris
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 72
+> Destino: 143
+> Texto: Epsilon_Carinae
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 87
+> Destino: 10
+> Texto: Scheat
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 125
+> Destino: 49
+> Texto: Phecda
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 134
+> Destino: 103
+> Texto: Alderamin
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 72
+> Destino: 16
+> Texto: Kappa_Velorum
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 132
+> Destino: 12
+> Texto: Markab
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Escribir
+
+Identidad del emisor [1-149]: 
+Identidad del destino [1-149]: 
+Texto del mensaje (1-100 car): 
+Anotado mensaje:
+> Emisor: 85
+> Destino: 147
+> Texto: Epsilon_Cygni
+
+A) Dar de alta a un abonado
+E) Escribir un mensaje
+L) Listar los mensajes para un abonado
+B) Borrar un mensaje
+J) Dar de baja a un abonado
+
+S) Salir del programa
+
+Elige una opcion: 
+Salir
+
+Seguro que desea salir del programa? (s/n): 

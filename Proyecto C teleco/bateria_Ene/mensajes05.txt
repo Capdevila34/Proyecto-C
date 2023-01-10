@@ -1,0 +1,6 @@
+6 1 Hola
+9 12 Como_estas
+1 6 Que_tal
+3 6 Puedes_venir
+6 3 Ahora-no
+12 9 MuyBien
